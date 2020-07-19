@@ -1,0 +1,17 @@
+{
+  "name": "nock-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "axios": "^0.19.2",
+    "jest": "^26.1.0",
+    "nock": "^13.0.2"
+  }
+}
